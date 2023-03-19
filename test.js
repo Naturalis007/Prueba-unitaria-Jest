@@ -8,7 +8,7 @@ test("adds 14 + 9 to equal 23", ()  => {
 
     //esperamos que la suma de esos 2 numeros sea 23
     expect(total).toBe(23);
-})
+});
 
 
 
